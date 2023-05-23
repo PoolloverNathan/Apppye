@@ -1,5 +1,17 @@
 # Apppye
 Appye is a closed-source bookmarklet that allows you to use unblocked websites &amp; games without them getting blocked.
+## How to add:
+First, go [here](https://www.google.com)
+<br />
+Next, press CTRL+A, then CTRL+C, then press CTRL+SHIFT+B two times.
+<br />
+Now, right click the bookmarklet bar, click "Add page..."
+<br />
+For the name, put whatever you want, it dose not matter.
+<br />
+For the URL, paste with CRTL+V
+Now, you should be able to use this on any site*, please read the docs embeded into your version.
+##### *Some websites will **NOT** work with this, most Desmos sate calulators do work though.*
 
 # Appye Loader - Docs
 ## Shortcuts
