@@ -3,7 +3,7 @@ Appye is a closed-source bookmarklet that allows you to use unblocked websites &
 Currently, we only allow the use of our pre-packaged apps, eventually, we will allow the creation & modifcations of apps.
 <br />
 
-Can't find a app? [Create a issue](https://github.com/KUKHUA/Apppye/issues/new?assignees=&labels=&projects=&template=app-game-request.md&title=%5BAPP%5D).<br />
+Can't find a app you like? [Create a issue](https://github.com/KUKHUA/Apppye/issues/new?assignees=&labels=&projects=&template=app-game-request.md&title=%5BAPP%5D).<br />
 (Make sure other websites have it, and that it is not on the [**BANNED LIST**](https://github.com/KUKHUA/Apppye/blob/main/BANNEDLIST.md))
 ## How to add:
 First, go [here](https://raw.githubusercontent.com/KUKHUA/Apppye/main/bookmarklet.js)
