@@ -1,6 +1,7 @@
 # Apppye
 Appye is a closed-source bookmarklet that allows you to use unblocked websites &amp; games without them getting blocked.<br />
 Currently, we only allow the use of our pre-packaged apps, eventually, we will allow the creation & modifcations of apps.
+
 <br />
 
 Can't find a app you like? [Create a issue](https://github.com/KUKHUA/Apppye/issues/new?assignees=&labels=&projects=&template=app-game-request.md&title=%5BAPP%5D).<br />
