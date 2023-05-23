@@ -6,7 +6,7 @@
 ### `app-load {appName}`
 This command loads the app you want. ex: *`app-load subway`*
 ### `cloak-it {cloakProfile} {fullUrl || appName}`
-This command cloaks the the url/app-name in the command. It will open in a new window, and cloaks as Desmos.
+This command cloaks the the url/app-name in the command. It will open in a new window, and by defualt cloaks as Desmos.
 Cloak profiles: `self,` `canvas,` `clever,` `drive`
 ex1: *`cloak-it https://randogamewebsite.com`* ex2: *`cloak-it subway`* ex3: *`cloak-it self google`* 
 ### `search {searchQuery}`
