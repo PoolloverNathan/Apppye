@@ -24,6 +24,7 @@ Shows the version. ex: *`about`*
 `searx,`
 `hacker_news`
 ## More game-ish
+##### Credits to [3kho](https://github.com/3kho) for the games.
 `subway (Subway Surfers),`
 `bitlife,`
 `uno(4 Colors),`
