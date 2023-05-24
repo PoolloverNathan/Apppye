@@ -23,7 +23,8 @@ Shows the version. ex: *`about`*
 `radiolise,`
 `searx,`
 `hacker_news,`
-`music_app`
+`music_app,`
+`d25_live`
 ## More game-ish
 ##### Credits to [3kho](https://github.com/3kho) for the games.
 `subway (Subway Surfers),`
