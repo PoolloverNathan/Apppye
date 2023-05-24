@@ -22,7 +22,8 @@ Shows the version. ex: *`about`*
 `google,`
 `radiolise,`
 `searx,`
-`hacker_news`
+`hacker_news,`
+`music_app`
 ## More game-ish
 ##### Credits to [3kho](https://github.com/3kho) for the games.
 `subway (Subway Surfers),`
