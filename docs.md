@@ -10,6 +10,7 @@ Force-hide all winbox-elments, hides everything the bookmarklet produces.
 Force-shows all winbox-elments, shows everything the bookmarklet produces.
 ### `q`
 Force-quits all winbox-elments, removes everything the bookmarklet produces.
+**(WARNING!)** *The `q` shortcut will remove saved data!*
 ## Commands
 
 ##### Please note `{` and `}` must be removed when entering a command, <br /> aswell do not include anything in `(` and `)` only include the first word. Arguments with *`*`* after them are optional. "||" means "or".
