@@ -1,7 +1,17 @@
 # Appye Loader - Docs
 ## Shortcuts
-#### Use the *`D`* key to get back here at any time, use the *`C`* key to use a command at any time. <br /> Press the *`X`* button at the top of this window after reading below.
+### `c`
+Shortcut to prompt for a command
+### `d`
+Shortcut to `doc || docs`
+### `m`
+Force-hide all winbox-elments, hides everything the bookmarklet produces.
+### `g`
+Force-shows all winbox-elments, shows everything the bookmarklet produces.
+### `q`
+Force-quits all winbox-elments, removes everything the bookmarklet produces.
 ## Commands
+
 ##### Please note `{` and `}` must be removed when entering a command, <br /> aswell do not include anything in `(` and `)` only include the first word. Arguments with *`*`* after them are optional. "||" means "or".
 ### `app-load {appName}`
 This command loads the app you want. ex: *`app-load subway`*
