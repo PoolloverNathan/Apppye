@@ -15,7 +15,7 @@ Force-quits all winbox-elments, removes everything the bookmarklet produces.
 ##### Please note `{` and `}` must be removed when entering a command, <br /> aswell do not include anything in `(` and `)` only include the first word. Arguments with *`*`* after them are optional. "||" means "or".
 ### `app-load {appName}`
 This command loads the app you want. ex: *`app-load subway`*
-### `cloak-it {cloakProfile} {fullUrl || appName}`
+### `cloak-it {cloakProfile*} {fullUrl || appName}`
 This command cloaks the the url/app-name in the command. It will open in a new window, and by defualt cloaks as Desmos.
 Cloak profiles: `self,` `canvas,` `clever,` `drive`
 ex1: *`cloak-it https://randogamewebsite.com`* ex2: *`cloak-it subway`* ex3: *`cloak-it self google`* 
