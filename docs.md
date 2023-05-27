@@ -37,15 +37,15 @@ Shows the version. ex: *`about`*
 `d25_live`
 ## More game-ish
 ##### Credits to [3kho](https://github.com/3kho) for the games.
-`subway (Subway Surfers),`
+`subway,`
 `bitlife,`
-`uno(4 Colors),`
+`uno,`
 `dino,`
-`cookie(Cookie Clicker),`
+`cookie,`
 `retro_bowl,`
 `papa_pizza,`
 `papa_burger,`
 `crossy_road,`
-`jetpack (Jetpack Joyride),`
+`jetpack,`
 `tiny_fish,`
 `flappy_bird`
