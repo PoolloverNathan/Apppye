@@ -26,7 +26,7 @@ ex:*`search free anti-virus for chrome os`*
 Shows the html docs window. ex1: *`doc`* ex2: *`docs`*
 ### `about`
 Shows the version. ex: *`about`*
-## Apps
+# Apps
 `d25,`
 `piped,`
 `google,`
