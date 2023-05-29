@@ -1,20 +1,23 @@
 # Apppye
-Appye is a closed-source bookmarklet that allows you to use unblocked websites and games without them getting blocked.  
-Currently, we only allow the use of our pre-packaged apps. Eventually, we will allow the creation & modifcations of apps.
 
-<br />
+Apppye is a closed-source bookmarklet that allows you to access unblocked websites and games without them getting blocked.
 
-Can't find a app you like? [Create an issue](https://github.com/KUKHUA/Apppye/issues/new?assignees=&labels=&projects=&template=app-game-request.md&title=%5BAPP%5D).<br />
-(Make sure other websites have it, and that it is not on the [**BANNED LIST**](https://github.com/KUKHUA/Apppye/blob/main/BANNEDLIST.md))
-## How to add:
-First, go [here](https://raw.githubusercontent.com/KUKHUA/Apppye/main/bookmarklet.js)
+Currently, we only support the use of our pre-packaged apps. However, we have plans to allow the creation and modifications of apps in the future.
 
-Next, press CTRL+A, then CTRL+C, then press CTRL+SHIFT+B two times.
+Join our server: [Apppye Discord Server](https://discord.gg/CYjMqNS8K6)
 
-Now, right click the bookmarklet bar, click "Add page..."
+If you can't find an app you like, you can create an issue [here](https://github.com/KUKHUA/Apppye/issues/new?assignees=&labels=&projects=&template=app-game-request.md&title=%5BAPP%5D). Make sure the app is not on the [BANNED LIST](https://github.com/KUKHUA/Apppye/blob/main/BANNEDLIST.md) and is available on other websites.
 
-For the name, put whatever you want, it dose not matter.
+## How to add Apppye:
 
-For the URL, paste with CTRL+V.
-Now, you should be able to use this on any site*, please read the docs embeded into your version.
-##### *Some websites will **NOT** work with this. Most Desmos state calulators do work.*
+1. Go [here](https://raw.githubusercontent.com/KUKHUA/Apppye/main/bookmarklet.js).
+2. Press CTRL+A, then CTRL+C.
+3. Press CTRL+SHIFT+B twice.
+4. Right-click the bookmarklet bar and select "Add page..."
+5. Choose a name for the bookmarklet (it doesn't matter what you put).
+6. Paste the copied URL using CTRL+V.
+7. You should now be able to use Apppye on any site*.
+
+Note: Some websites may not work with Apppye. Most Desmos state calculators do work.
+
+*Please read the embedded documentation in your version for more information.
