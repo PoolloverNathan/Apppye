@@ -50,4 +50,8 @@ Shows the version. ex: *`about`*
 `jetpack,`
 `tiny_fish,`
 `flappy_bird,`
-`imp_quiz`
+`imp_quiz,`
+`onevone,`
+`backrooms,`
+`slope`
+
