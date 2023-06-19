@@ -1,5 +1,5 @@
 # Appye Script
-#### Speciations for Appye Script, a pseudo-scripting language to customize Appye.
+#### Specifications for Appye Script, a pseudo-scripting language to customize Appye.
 ## `register`
 ##### Used to create apps, widgets, etc
 #### Syntax:
