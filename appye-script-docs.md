@@ -20,9 +20,9 @@ register app [name] {
 winStyle: ``, //string, contains all window info (use winbox.js stuff)
 vendor: "",  //string, name of creator or something.
 description: "", //string, contains info about the app.
-hidden: "", //boolen, should be hidden in UI. (maybe system/testing apps?)
+hidden: , //boolen, should be hidden in UI. (maybe system/testing apps?)
 commandLine: `` //string, contains the command line names, seperated by commas.
-proxy: "" //boolen, attempt to proxy the app or not.
+proxy: //boolen, attempt to proxy the app or not.
 }
 ```
 ## `register widget [name]`
@@ -33,8 +33,8 @@ register widget [name] {
 html: "",  //string, HTML to inject into the page.
 vendor: "",  //string, name of creator or something.
 description: "", //string, contains info about the widget.
-window: "", //boolen, put it in a winbox.js window or not.
-proxy: "" //boolen, attempt to proxy the html or not.
+window: , //boolen, put it in a winbox.js window or not.
+proxy:   //boolen, attempt to proxy the html or not.
 }
 ```
 ## `register js_trigger [name]`
@@ -42,7 +42,7 @@ proxy: "" //boolen, attempt to proxy the html or not.
 #### Syntax:
 ```
 register js_trigger [name] {
-regex: "", //boolen, whtnher to use regex or not.
+regex: , //boolen, whtnher to use regex or not.
 on: "", //the command that triggers it, the wildcard '*', and regex works.
 eval: "" //expression to evaulate, once triggered.
 }
