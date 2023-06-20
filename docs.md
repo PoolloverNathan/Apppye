@@ -9,7 +9,7 @@ Force-hide all winbox-elments, hides everything the bookmarklet produces.
 ### `g`
 Force-shows all winbox-elments, shows everything the bookmarklet produces.
 ### `q`
-Force-quits all winbox-elments, removes everything the bookmarklet produces.
+Force-quits all winbox-elments, removes everything the bookmarklet produces, and deletes saved data.
 **(WARNING!)** *The `q` shortcut will remove saved data!*
 ## Commands
 
